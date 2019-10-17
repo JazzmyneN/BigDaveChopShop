@@ -2,6 +2,7 @@ html {
     background-color: black;
 }
 body {
+    height: 100vh;
     margin: auto;
     width: 85%;
     min-width: 460px;

@@ -1,0 +1,29 @@
+html {
+    background-color: black;
+}
+body {
+    margin: auto;
+    width: 85%;
+    min-width: 460px;
+    background-color: rgb(211,72,20);
+}
+.logo {
+    display: inline-block;
+}
+.horizontal {
+    display: inline-block;
+    padding-left: 100px;
+    margin-top: 50px;
+    letter-spacing: 1.5px;  
+}
+.horizontal a {
+
+    margin-left: 1.5em;
+    margin-right: 1.5em;
+    border-left: 1px solid;
+    transition: all 1s;
+    font-size: 1.15em;
+}
+.horizontal a:hover {
+    border-left: 2px solid;
+}

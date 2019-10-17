@@ -22,7 +22,7 @@ body {
     margin-right: 1.5em;
     border-left: 1px solid;
     transition: all 1s;
-    font-size: 1.15em;
+
 }
 .horizontal a:hover {
     border-left: 2px solid;

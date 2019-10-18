@@ -1,27 +1,43 @@
+
 html {
     background-color: black;
 }
+footer {
+    position: fixed;
+    bottom: 0;
+    left: center;
+    right: center;
+    width: 85%;
+    background-color: white;
+    text-align: center;
+    box-shadow: 0px 0px 10px black;
+    padding-top: 5px;
+}
 body {
-    height: 100vh;
+    height: 1000px;
     margin: auto;
     width: 85%;
-    min-width: 460px;
-    background-color: rgb(211,72,20);
-}
+    min-width: 460px; 
+    background: linear-gradient(60deg, rgb(211,72,20), orange);
+} 
 .logo {
     display: inline-block;
 }
 .horizontal {
-    display: inline-block;
+    padding-top: 55px;
     padding-left: 100px;
-    margin-top: 50px;
     letter-spacing: 1.5px;  
+    display: flex;
 }
 .horizontal a {
-    margin-left: 1.5em;
-    margin-right: 1.5em;
+    margin-left: 1px;
+    margin-right: 1px;
     border-left: 1px solid;
     transition: all 1s;
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px;
+    color: black;
 }
 .horizontal a:hover {
     border-left: 2px solid;

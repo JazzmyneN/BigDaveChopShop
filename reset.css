@@ -14,10 +14,7 @@ li, main, nav, nav a, ol, p, section, span, ul {
    box-sizing: border-box;  
 }
 /* Set the default page element styles */
-body {
-   margin: 0px;
-   width: 100%;
-}
+
 body {
    font-size: 100%;
    font-weight: inherit;

@@ -9,9 +9,11 @@
     border-radius: 15px;
     box-shadow: -5px 5px 5px rgb(66, 66, 66);
 }
-p{
-    
-}
+
 h1 {
     padding-top: 10px;
+}
+img {
+    padding-left: 250px;
+    margin-top: -50px;
 }

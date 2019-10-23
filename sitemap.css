@@ -8,4 +8,6 @@ iframe {
 }
 .container p {
     padding-top: 25px;
+    font-size: 2em;
+    line-height: 2em;
 }

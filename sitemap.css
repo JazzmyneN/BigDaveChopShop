@@ -5,6 +5,7 @@ iframe {
 }
 .container {
     display: flex;
+    justify-content: center;
 }
 .container p {
     padding-top: 25px;

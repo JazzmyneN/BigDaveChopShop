@@ -1,0 +1,23 @@
+#repair {
+    background: linear-gradient(60deg, rgb(211, 72, 20), orange);
+    border-radius: 15px;
+    flex-grow: 1;
+    width: 250px;
+    margin: 10px;
+    transition: all 350ms;
+}
+#repair p {
+    padding: 1.2em;
+    color: white;
+}
+#repair h1 {
+    border-bottom: 1px solid white;
+    padding: 1.2em;
+    color: white;
+}
+.allrepairs {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
